@@ -52,7 +52,7 @@ java ParkingSystem
 SCREENSHOTS
 
 (screenshots of the GUI once the program is running.)
-![Parking System GUI](./Screenshot2025-05-30194425)
+![Parking System GUI](./GUIScreenshot.png)
 
 
 POSSIBLE IMPROVEMENTS
